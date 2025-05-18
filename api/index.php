@@ -1,4 +1,5 @@
 <?php
+echo "Test PHP sur Vercel 🚀";/*
 session_start();
 
 $page='index.php';
@@ -217,4 +218,4 @@ $header = 'Bienvenue sur  TrucsPasChers';
 </section>
 
 
-<?php require 'composants/footer.php'; ?>
+<?php require 'composants/footer.php'; ?>*/
